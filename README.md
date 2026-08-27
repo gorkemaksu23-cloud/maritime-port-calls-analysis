@@ -67,7 +67,7 @@ Ship category emerged as an important differentiating factor in port-stay durati
 
 A complete report covering the business scenario, data preparation, analysis, dashboards, and management findings is available here:
 
-➡️ **[View the full project report](./PROJECT%20REPORT%201.pdf)**
+➡️ **[View the full project report](./Maritime_Port_Calls_Analysis_Report.pdf)**
 
 ## Tools
 
